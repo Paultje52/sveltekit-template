@@ -1,0 +1,9 @@
+{
+  "name": "sveltekit-template",
+  "version": "0.0.0",
+  "repository": "git@github.com:Paultje52/sveltekit-template.git",
+  "author": "Paultje52 <Paultje52@gmail.com>",
+  "type": "module",
+  "license": "MIT",
+  "private": true
+}
