@@ -14,7 +14,8 @@
     "format:fix": "prettier --write --plugin-search-dir=. .",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
-    "svelte:check": "svelte-check --ignore \"node_modules\" --tsconfig \"./tsconfig.json\""
+    "svelte:check": "svelte-check --ignore \"node_modules\" --tsconfig \"./tsconfig.json\"",
+    "svelte:sync": "svelte-kit sync"
   },
   "devDependencies": {
     "@picocss/pico": "^1.5.10",
