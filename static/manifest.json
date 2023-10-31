@@ -1,0 +1,21 @@
+{
+  "name": "Full name",
+  "short_name": "Short name",
+  "start_url": "/dash",
+  "display": "standalone",
+  "background_color": "#43a047",
+  "theme_color": "#43a047",
+  "description": "DESCRIPTION",
+  "icons": [
+    {
+      "src": "/icon/logo.webp",
+      "sizes": "256x256",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon/logo.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
